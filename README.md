@@ -44,7 +44,7 @@ Before scoring the 2025 season, the pipeline's predictive accuracy was rigorousl
 
 ---
 
-## 🚀 2025 Post-Mortem & Micro Findings
+## 🚀 2025 Findings
 Applying the validated models to the second half of the 2025 season reveals who truly unlocked "excess returns" at the deadline and who fell victim to standard regression.
 
 <p align="center">
